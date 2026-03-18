@@ -21,7 +21,12 @@ Here are my solutions for the [Exercism JavaScript track](https://exercism.org/t
 | 007 | [Vehicle Purchase](https://github.com/PastelPrism/exercism-javascript-track/tree/main/007-vehicle-purchase) | ✔️ | _Soon_  |  
 | 008 | [Bird Watcher](https://github.com/PastelPrism/exercism-javascript-track/tree/main/008-bird-watcher) | ✔️ | _Soon_  |  
 | 009 | [Mixed Juices](https://github.com/PastelPrism/exercism-javascript-track/tree/main/009-mixed-juices) | ✔️ | _Soon_  |  
-| 010 | [Lucky Numbers](https://github.com/PastelPrism/exercism-javascript-track/tree/main/010-lucky-numbers) | ✔️ | _Soon_  |    
+| 010 | [Lucky Numbers](https://github.com/PastelPrism/exercism-javascript-track/tree/main/010-lucky-numbers) | ✔️ | _Soon_  |  
+| 011 | [Elyses Analytic Enchantments](https://github.com/PastelPrism/exercism-javascript-track/tree/main/011-elyses-analytic-enchantments) | ✔️ | _Soon_  |   
+| 012 | [Elyses Destructured Enchantments](https://github.com/PastelPrism/exercism-javascript-track/tree/main/012-elyses-destructured-enchantments) | ✔️ | _Soon_  |   
+| 013 | [Train Driver](https://github.com/PastelPrism/exercism-javascript-track/tree/main/013-train-driver) | ✔️ | _Soon_  |   
+| 014 | [Elyses Looping Enchantments](https://github.com/PastelPrism/exercism-javascript-track/tree/main/014-elyses-looping-enchantments) | ✔️ | _Soon_  |   
+| 015 | [Amusement Park](https://github.com/PastelPrism/exercism-javascript-track/tree/main/015-amusement-park) | ✔️ | _Soon_  |       
 
 ## Extra challenge (_'Turn the JavaScript excersizes visible'_)
 
