@@ -26,7 +26,7 @@ Here are my solutions for the [Exercism JavaScript track](https://exercism.org/t
 ## Extra challenge (_'Turn the JavaScript excersizes visible'_)
 
 
-- [01 Hello World](001-hello-world/extra/index.html) (Hello World)
+- [001 Hello World](https://pastelprism.github.io/exercism-javascript-track/001-hello-world/extra) (Hello World)
 	- A retro style computer that accepts input and only returns "Hello World".
 
 
