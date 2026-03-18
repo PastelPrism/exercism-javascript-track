@@ -12,7 +12,7 @@ Here are my solutions for the [Exercism JavaScript track](https://exercism.org/t
 
 | # | Exercise | Status | Description |   
 |---:|---|---|---|  
-| 01 | [Hello World](https://github.com/PastelPrism/exercism-javascript-track/tree/main/01-hello-world) | ✔️ | _Soon_ |    
+| 01 | [Hello World](https://github.com/PastelPrism/exercism-javascript-track/tree/main/001-hello-world) | ✔️ | _Soon_ |    
 | 02 | [Lucian's Luscious Lasagna](https://github.com/PastelPrism/exercism-javascript-track/tree/main/02-lucians-luscious-lasagna) | ✔️ | _Soon_ |  
 | 03 | [Annalyn's Infiltration](https://github.com/PastelPrism/exercism-javascript-track/tree/main/03-annalyns-infiltration) | ✔️ | _Soon_ |   
 | 04 | [Freelancer Rates](https://github.com/PastelPrism/exercism-javascript-track/tree/main/04-freelancer-rates) | ✔️ | _Soon_ |  
@@ -26,7 +26,7 @@ Here are my solutions for the [Exercism JavaScript track](https://exercism.org/t
 ## Extra challenge (_'Turn the JavaScript excersizes visible'_)
 
 
-- [01 Hello World](01-hello-world/extra/index.html) (Hello World)
+- [01 Hello World](001-hello-world/extra/index.html) (Hello World)
 	- A retro style computer that accepts input and only returns "Hello World".
 
 
