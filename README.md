@@ -31,7 +31,16 @@ Here are my solutions for the [Exercism JavaScript track](https://exercism.org/t
 | 017 | [Coordinate Transformation](https://github.com/PastelPrism/exercism-javascript-track/tree/main/017-coordinate-transformation) | ✔️ | _Soon_  | 
 | 018 | [Fruit Picker](https://github.com/PastelPrism/exercism-javascript-track/tree/main/018-fruit-picker) | ✔️ | _Soon_  | 
 | 019 | [Translation Service](https://github.com/PastelPrism/exercism-javascript-track/tree/main/019-translation-service) | ✔️ | _Soon_  | 
-| 020 | [Highscore Board](https://github.com/PastelPrism/exercism-javascript-track/tree/main/020-highscore-board) | ✔️ | _Soon_  | 
+| 020 | [Highscore Board](https://github.com/PastelPrism/exercism-javascript-track/tree/main/020-highscore-board) | ✔️ | _Soon_  |  
+| 021 | [Ozans Playlist](https://github.com/PastelPrism/exercism-javascript-track/tree/main/021-ozans-playlist) | ✔️ | _Soon_  |  
+| 022 | [Lasagna Master](https://github.com/PastelPrism/exercism-javascript-track/tree/main/022-lasagna-master) | ✔️ | _Soon_  | 
+| 023 | [Factory Sensors](https://github.com/PastelPrism/exercism-javascript-track/tree/main/023-factory-sensors) | ✔️ | _Soon_  | 
+| 024 | [Elyses Transformative Enchantments](https://github.com/PastelPrism/exercism-javascript-track/tree/main/024-elyses-transformative-enchantments) | ✔️ | _Soon_  | 
+| 025 | [Custom Signs](https://github.com/PastelPrism/exercism-javascript-track/tree/main/025-custom-signs) | ✔️ | _Soon_  | 
+| 026 | [Windowing System](https://github.com/PastelPrism/exercism-javascript-track/tree/main/026-windowing-system) | ✔️ | _Soon_  | 
+
+
+
 
 ## Extra challenge (_'Turn the JavaScript exercizes visible'_)
 
